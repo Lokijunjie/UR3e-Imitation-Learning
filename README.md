@@ -2,7 +2,7 @@
 
 ## 零.SAC-Auto算法:
 
-###### 自定义程度高的SAC-Auto算法，支持部署策略模型、备份训练过程、多源观测融合、PER等功能
+###### 自定义程度高的SAC-Auto算法，支持部署策略模型、备份训练过程等功能
 
 论文：《Soft Actor-Critic Algorithms and Applications （arXiv: 1812) 》# 不是1801版
 

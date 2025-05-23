@@ -1,7 +1,7 @@
 # 基于SAC算法改进的DMP示教学习
 
 ## 依赖项
-python 3.9.21
+python 3.9.21  
 torch  1.13.1+cuda11.6
 
 ## 训练

@@ -1,8 +1,8 @@
-# PyTorch版SAC-Auto强化学习算法与应用示例
+# PyTorch版SAC-DMP强化学习算法与应用示例
 
 ## 零.SAC-Auto算法:
 
-###### 自定义程度高的SAC-Auto算法，支持部署策略模型、备份训练过程等功能
+###### 自定义程度高的SAC-DMP算法，支持部署策略模型、备份训练过程等功能
 
 论文：《Soft Actor-Critic Algorithms and Applications （arXiv: 1812) 》# 不是1801版
 

@@ -2,7 +2,9 @@
 
 ## 依赖项
 python 3.9.21  
-torch  1.13.1+cuda11.6
+torch  1.13.1+cuda11.6  
+gym    0.26.2  
+numpy  1.23.0  
 
 ## 训练
 ```
